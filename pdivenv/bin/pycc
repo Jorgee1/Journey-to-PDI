@@ -1,0 +1,3 @@
+#!/home/kenshinn/Documents/Proyects/Python/PDI/pdivenv/bin/python3
+from numba.pycc import main
+main()
